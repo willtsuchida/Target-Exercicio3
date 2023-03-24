@@ -1,0 +1,15 @@
+D:\Desktop\Projetos\Target-Exercicio3\Target-Exercicio3\bin\Debug\net6.0\Target-Exercicio3.exe
+D:\Desktop\Projetos\Target-Exercicio3\Target-Exercicio3\bin\Debug\net6.0\Target-Exercicio3.deps.json
+D:\Desktop\Projetos\Target-Exercicio3\Target-Exercicio3\bin\Debug\net6.0\Target-Exercicio3.runtimeconfig.json
+D:\Desktop\Projetos\Target-Exercicio3\Target-Exercicio3\bin\Debug\net6.0\Target-Exercicio3.dll
+D:\Desktop\Projetos\Target-Exercicio3\Target-Exercicio3\bin\Debug\net6.0\Target-Exercicio3.pdb
+D:\Desktop\Projetos\Target-Exercicio3\Target-Exercicio3\obj\Debug\net6.0\Target-Exercicio3.csproj.AssemblyReference.cache
+D:\Desktop\Projetos\Target-Exercicio3\Target-Exercicio3\obj\Debug\net6.0\Target-Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Projetos\Target-Exercicio3\Target-Exercicio3\obj\Debug\net6.0\Target-Exercicio3.AssemblyInfoInputs.cache
+D:\Desktop\Projetos\Target-Exercicio3\Target-Exercicio3\obj\Debug\net6.0\Target-Exercicio3.AssemblyInfo.cs
+D:\Desktop\Projetos\Target-Exercicio3\Target-Exercicio3\obj\Debug\net6.0\Target-Exercicio3.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos\Target-Exercicio3\Target-Exercicio3\obj\Debug\net6.0\Target-Exercicio3.dll
+D:\Desktop\Projetos\Target-Exercicio3\Target-Exercicio3\obj\Debug\net6.0\refint\Target-Exercicio3.dll
+D:\Desktop\Projetos\Target-Exercicio3\Target-Exercicio3\obj\Debug\net6.0\Target-Exercicio3.pdb
+D:\Desktop\Projetos\Target-Exercicio3\Target-Exercicio3\obj\Debug\net6.0\Target-Exercicio3.genruntimeconfig.cache
+D:\Desktop\Projetos\Target-Exercicio3\Target-Exercicio3\obj\Debug\net6.0\ref\Target-Exercicio3.dll
